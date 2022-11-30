@@ -22,7 +22,8 @@ public class exersice2 {
                 }
 
                 }
-            }
             counter++;
+            }
         }
     }
+////
